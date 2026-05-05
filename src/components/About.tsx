@@ -2,17 +2,21 @@ import Image from "next/image";
 
 const tools = [
   { logo: "/images/logo/vscode.png",      name: "VS Code",      desc: "Primary code editor" },
+  { logo: "/images/logo/acode.png",     name: "Acode",      desc: "Android Phone Primary code editor" },
   { logo: "/images/logo/xampp.png",       name: "XAMPP",        desc: "Local PHP & MySQL server" },
   { logo: "/images/logo/ksweb.png",       name: "KSWeb",        desc: "Web server on Android" },
   { logo: "/images/logo/termux.png",      name: "Termux",       desc: "Linux terminal on Android" },
   { logo: "/images/logo/nextjs.png",      name: "Next.js",      desc: "React framework" },
   { logo: "/images/logo/typescript.png",  name: "TypeScript",   desc: "Typed JavaScript" },
   { logo: "/images/logo/tailwind.png",    name: "Tailwind CSS", desc: "Utility-first CSS" },
-  { logo: "/images/logo/laravel.png",     name: "Laravel",      desc: "PHP framework" },
   { logo: "/images/logo/javascript.png",  name: "JavaScript",   desc: "Core web language" },
   { logo: "/images/logo/php.png",         name: "PHP",          desc: "Server-side scripting" },
   { logo: "/images/logo/mysql.png",       name: "MySQL",        desc: "Relational database" },
+  { logo: "/images/logo/postgresql.png",      name: "PostgreSQL",       desc: "Relational database" },
   { logo: "/images/logo/github.png",      name: "GitHub",       desc: "Version control & hosting" },
+  { logo: "/images/logo/react.png",     name: "React",      desc: "Javascript Library" },
+  { logo: "/images/logo/html.png",     name: "HTML",      desc: "Standard Markup Language" },
+  { logo: "/images/logo/css.png",     name: "CSS",      desc: "Style" },
 ];
 
 export default function About() {
