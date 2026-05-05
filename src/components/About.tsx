@@ -4,7 +4,7 @@ const tools = [
   { logo: "/images/logo/vscode.png",      name: "VS Code",      desc: "Primary code editor" },
   { logo: "/images/logo/acode.png",     name: "Acode",      desc: "Android Phone Primary code editor" },
   { logo: "/images/logo/xampp.png",       name: "XAMPP",        desc: "Local PHP & MySQL server" },
-  { logo: "/images/logo/ksweb.jpeg",       name: "KSWeb",        desc: "Web server on Android" },
+  { logo: "/images/logo/ksweb.png",       name: "KSWeb",        desc: "Web server on Android" },
   { logo: "/images/logo/termux.png",      name: "Termux",       desc: "Linux terminal on Android" },
   { logo: "/images/logo/nextjs.png",      name: "Next.js",      desc: "React framework" },
   { logo: "/images/logo/typescript.png",  name: "TypeScript",   desc: "Typed JavaScript" },
